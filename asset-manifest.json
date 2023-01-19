@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-AlamFood/static/css/main.e0942d17.css",
+    "main.js": "/react-AlamFood/static/js/main.f5833a77.js",
+    "index.html": "/react-AlamFood/index.html",
+    "main.e0942d17.css.map": "/react-AlamFood/static/css/main.e0942d17.css.map",
+    "main.f5833a77.js.map": "/react-AlamFood/static/js/main.f5833a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0942d17.css",
+    "static/js/main.f5833a77.js"
+  ]
+}
